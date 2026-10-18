@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 This will be a feneral public ripo currentlly controlled by me later if it get poppular it will be distributed... i am an tech geek this ripo will cover both software and hardware projects completely open source and many nerdy projects<br>
 
 
