@@ -1,4 +1,4 @@
-# 💫 About Us:
+# 💫 About Me:
 This will be a feneral public ripo currentlly controlled by me later if it get poppular it will be distributed... i am an tech geek this ripo will cover both software and hardware projects completely open source and many nerdy projects<br>
 
 
@@ -8,6 +8,9 @@ This will be a feneral public ripo currentlly controlled by me later if it get p
 ![](https://github-readme-stats.shion.dev/api?username=forged-for-geeks&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=forged-for-geeks&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=forged-for-geeks&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=forged-for-geeks&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
